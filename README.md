@@ -12,7 +12,7 @@ Then execute the btsync binary:
 chmod +x btsync
 ./btsync
 ```
-Open your browser and go to [http:localhost:8888](http:localhost:8888) and setup your username and password. You only need to do this once.
+Open your browser and go to [localhost:8888/gui](http://localhost:8888/gui/) and setup your username and password. You only need to do this once.
 
 To start the tray just run:
 ```shell
